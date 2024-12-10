@@ -1,2 +1,2 @@
 # hardware-electric-boogaloo
-Electrical subteam's PCB design files
+Bumblebee Electrical subteam's custom PCB design files
